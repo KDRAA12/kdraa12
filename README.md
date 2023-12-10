@@ -14,8 +14,8 @@
 
 Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 years of hands-on experience in creating robust and scalable applications. My expertise spans across a variety of technologies, including Java, Spring, React, TypeScript, Node.js, and more. I thrive on challenges and am always eager to explore new opportunities.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kdraa12/)](https://www.linkedin.com/in/kdraa12/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yourgithubusername)](https://github.com/yourgithubusername)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdel-lafdal/)](https://www.linkedin.com/in/abdel-lafdal/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kdraa12)](https://github.com/kdraa12)
 
 
 🌐 [LinkedIn](https://www.linkedin.com/in/kdraa12/)
@@ -216,7 +216,7 @@ Key Courses:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kdraa12&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdraa12&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdraa12&layout=compact&theme=radical)
 
 ## Contact
 
