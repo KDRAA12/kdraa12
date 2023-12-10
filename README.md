@@ -214,9 +214,6 @@ Key Courses:
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kdraa12&theme=radical&hide_border=true)](https://git.io/streak-stats)
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdraa12&layout=compact&theme=radical)
 
 ## Contact
 
