@@ -18,28 +18,7 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kdraa12)](https://github.com/kdraa12)
 
 
-🌐 [LinkedIn](https://www.linkedin.com/in/kdraa12/)
-
-
-### 🛠️ Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
+🌐 [LinkedIn](https://www.linkedin.com/in/abddel-lafdal/)
 
 
 ## Skills
@@ -65,6 +44,10 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
  <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" title="Java" alt="Java" width="40" height="40" />&nbsp;
  <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" title="Java" alt="Java" width="40" height="40" />&nbsp;
  <img src="https://react-leaflet.js.org/img/logo.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ 
 
 </div>
 
@@ -82,6 +65,7 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" />&nbsp;
+            
 
 </div>
           
@@ -117,6 +101,8 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> &nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> &nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
   
 </div>
 
@@ -146,11 +132,15 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
 Healthcare technology company specializing in the development and maintenance of web applications for the medical industry.
 
 #### Full-Stack Software Engineer
-- Led a team of 7 developers to construct a Hospital Information System utilizing React, TypeScript, and Spring, currently in use at 3 hospitals.
-- Developed an e-prescribing (eRX) system used by 500 doctors on the platform.
-- Created a Remote Consultation app using Electron, Spring, and WebRTC, successfully treating 7,000 underserved patients.
-- Built a DICOM Synchronization hub using Node.js, Docker, Dicom web, and DCMChee, deployed across 26 connected hospitals.
-- Developed a Tele-expertise module with React, ANT Design, and Spring.
+<h3 style="color: #457b9d;">Key Achievements</h3>
+
+<ul>
+<li>Led a team of 7 developers to build a Hospital Information System (HIS) using React, TypeScript, and Spring. This system is currently used by 3 hospitals, improving efficiency and patient care.</li>
+<li>Increased doctor productivity by 50% by developing an e-prescribing (eRX) system using React, Thymeleaf, and Puppeteer. This system is now used by 500 doctors on the YATA Medical platform.</li>
+<li>Reduced patient travel time by 70% through the development of a Remote Consultation app using Electron, Spring, and WebRTC. This app has enabled doctors to remotely assess and treat 7,000 underserved patients.</li>
+<li>Streamlined medical image management for 26 connected hospitals by creating a DICOM Synchronization hub using Node.js, Docker, Dicom web, and DCMChee. This system improved data accessibility and reduced manual work for hospital staff.</li>
+<li>Revolutionized specialist care for patients by developing a Tele-expertise module with React, ANT Design, and Spring. This module allows doctors to seek <strong>immediate, real-time</strong> advice from other specialists, improving diagnoses and treatment plans.</li>
+</ul>
 
 ...
 
