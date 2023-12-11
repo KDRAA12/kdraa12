@@ -18,7 +18,6 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kdraa12)](https://github.com/kdraa12)
 
 
-🌐 [LinkedIn](https://www.linkedin.com/in/abddel-lafdal/)
 
 
 ## Skills
