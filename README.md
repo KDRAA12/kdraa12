@@ -12,7 +12,7 @@
 
 # Abdel Lafdal | Full Stack Developer
 
-Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 years of hands-on experience in creating robust and scalable applications. My expertise spans across a variety of technologies, including Java, Spring, React, TypeScript, Node.js, and more. I thrive on challenges and am always eager to explore new opportunities.
+Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 5 years of hands-on experience in creating robust and scalable applications. My expertise spans across a variety of technologies, including Java, Spring, React, TypeScript, Node.js, and more. I thrive on challenges and am always eager to explore new opportunities.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdel-lafdal/)](https://www.linkedin.com/in/abdel-lafdal/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kdraa12)](https://github.com/kdraa12)
@@ -123,72 +123,6 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 2 y
             <img src="https://static.wikia.nocookie.net/google/images/1/19/Google_Maps_Icon.png"  width="40" height="40"/> &nbsp;
             <img src="https://cnpagency.com/wp-content/uploads/wp-rest.png" width="40" height="40" /> &nbsp;
 </div>
-
-
-## Professional Experience
-
-### YATA MEDICAL, Nouakchott, Mauritania | 02/2021 – 05/2023
-Healthcare technology company specializing in the development and maintenance of web applications for the medical industry.
-
-#### Full-Stack Software Engineer
-<h3 style="color: #457b9d;">Key Achievements</h3>
-
-<ul>
-<li>Led a team of 7 developers to build a Hospital Information System (HIS) using React, TypeScript, and Spring. This system is currently used by 3 hospitals, improving efficiency and patient care.</li>
-<li>Increased doctor productivity by 50% by developing an e-prescribing (eRX) system using React, Thymeleaf, and Puppeteer. This system is now used by 500 doctors on the YATA Medical platform.</li>
-<li>Reduced patient travel time by 70% through the development of a Remote Consultation app using Electron, Spring, and WebRTC. This app has enabled doctors to remotely assess and treat 7,000 underserved patients.</li>
-<li>Streamlined medical image management for 26 connected hospitals by creating a DICOM Synchronization hub using Node.js, Docker, Dicom web, and DCMChee. This system improved data accessibility and reduced manual work for hospital staff.</li>
-<li>Revolutionized specialist care for patients by developing a Tele-expertise module with React, ANT Design, and Spring. This module allows doctors to seek <strong>immediate, real-time</strong> advice from other specialists, improving diagnoses and treatment plans.</li>
-</ul>
-
-...
-
-## Independent Contractor Experience
-
-### HEATHROW AIRPORT TAXI SERVICE (UK) (remote), LONDON, UK | 09/2022 – 05/2023
-Taxi as a Service platform for transportation to and from London airports.
-
-#### Full-Stack Software Engineer
-- Rebuilt the system and maintained legacy software.
-- Prototyped a new system in less than 4 weeks, leading to improved customer feedback.
-- Redesigned and developed an intuitive booking system with Next, TypeScript, and Firebase.
-- Created a rule engine with Geofencing using React and Leaflet for location-based tax calculations.
-
-...
-
-## Academic Projects
-
-### Maharishi International University (2023) Part Management System
-Implemented a part management system using Express, MongoDB, and Angular. Prioritized API hardening for secure and controlled access to critical data, ensuring efficient tracking and management of parts.
-
-### Maharishi International University (2023) Student Alumni Software
-Crafted an alumni system with integrated job posting and application functionalities. Provided a professional solution for alumni to post and apply for jobs within the community.
-
-Technologies Used:
-- Spring
-- Ant Design
-- React
-- Postgres
-
-## Work Achievements
-
-- Spearheaded the development of a Hospital Information System currently in use at 3 hospitals.
-- Successfully treated 7,000 underserved patients through the Remote Consultation app.
-- Achieved an 80% patient retention rate by implementing a proactive Patient Management System.
-- Reduced order fulfillment times to 20 minutes nationwide through real-time driver monitoring.
-
-## Education
-
-### Master of Science in Computer Science | Maharishi International University | Expected completion 2024
-
-Key Courses:
-- Enterprise Architecture
-- Web Application Architecture
-- Modern Web Application
-- Modern Programming Practices
-- Algorithms
-
-### License Degree in Computer Science | Superior Institute of Informatics and Multimedia, Sfax Tunisia | 07/2021
 
 ## Certifications
 
