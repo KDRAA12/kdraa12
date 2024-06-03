@@ -139,7 +139,7 @@ Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 6 y
 
 ## Contact
 
-Feel free to reach out to me via email: 📧 abdel.lafdal@outlook.com
+Feel free to reach out to me via email: 📧 abdel.kader.lafdal@outlook.com
 
 Let's collaborate and build amazing things together! 🚀
 
