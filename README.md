@@ -11,7 +11,7 @@
 
 # Abdel Lafdal | Full Stack Developer
 
-Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 5 years of hands-on experience in creating robust and scalable applications. My expertise spans across a variety of technologies, including Java, Spring, React, TypeScript, Node.js, and more. I thrive on challenges and am always eager to explore new opportunities.
+Hi there! 👋 I'm Abdel Lafdal, a passionate Full Stack Developer with over 6 years of hands-on experience in creating robust and scalable applications. My expertise spans across a variety of technologies, including Java, Spring, React, TypeScript, Node.js, and more. I thrive on challenges and am always eager to explore new opportunities.
 
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/kdraa12)](https://github.com/kdraa12)
